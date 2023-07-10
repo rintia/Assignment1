@@ -43,3 +43,35 @@ max-width: 500px;
     font-size: 20px;
 font-weight: 700;
 }
+.sale{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+padding: 130px 400px;
+display: flex;
+gap: 100px;
+align-items: center;
+}
+.section-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 15px;
+text-align: center;
+
+}
+.sale-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 15px;
+max-width: 800px;
+
+}
+.sale-image{
+    width: 200px;
+height: 250px;
+}
+#center-btn{
+   margin-left: 128px;
+}
