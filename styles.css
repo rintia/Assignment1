@@ -59,13 +59,12 @@ margin-bottom: 15px;
 text-align: center;
 
 }
-.sale-description{
+.section-description{
     color: rgba(39, 39, 39, 0.60);
 text-align: center;
 font-size: 18px;
 font-weight: 400;
 margin-bottom: 15px;
-max-width: 800px;
 
 }
 .sale-image{
@@ -74,4 +73,16 @@ height: 250px;
 }
 #center-btn{
    margin-left: 128px;
+}
+.images{
+    display: flex;
+    gap: 10px;
+}
+.insta-images{
+    width: 290px;
+    height: 280px;
+}
+.instagram{
+    padding: 15px 250px;
+    margin-top: 15px;
 }
