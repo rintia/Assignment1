@@ -167,3 +167,16 @@ figcaption{
     text-align: center;
     text-decoration: underline;
 }
+.about-info{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    padding: 20px 250px;
+}
+.about{
+    margin-top: 100px;
+    background-color: #E55473;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 20px;
+}
